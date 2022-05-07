@@ -1,5 +1,6 @@
 <p align="center">
   <img src="venti-white.jpg" alt="banner">
+  <img src="https://genshin-card.getloli.com/10/180759973.png" alt="genshin-banner">
 </p>
 
 # Hi there，I'm Lo 👋
