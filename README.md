@@ -16,6 +16,8 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
+[![42](https://count.getloli.com/get/@LoTwT?theme=rule34)](#)
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=LoTwT.LoTwT)
 
 | <a href="https://github.com/LoTwT/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LoTwT&show_icons=true&include_all_commits=true&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/LoTwT/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoTwT&layout=compact&hide_border=true" /></a> |
