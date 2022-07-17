@@ -3,6 +3,8 @@
   <img src="https://genshin-card.getloli.com/10/180759973.png" alt="genshin-banner">
 </p>
 
+心中净『澈』，万物天地皆为『净』；心至『空』处，天地万物皆为『空』。
+
 # Hi there，I'm Lo 👋
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
