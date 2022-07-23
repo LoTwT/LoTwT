@@ -7,6 +7,8 @@
 
 人一生最重要的是与他人的牵绊，而非对自己的苛责。驻足过去的人，不会有未来。—— 枫原万叶
 
+这把刀已然罪无可恕，但也只是因为他失去了持刀者，没有人能在他走向歧途的时候指明他的错误。—— 枫原万叶
+
 # Hi there，I'm Lo 👋
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
