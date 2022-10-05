@@ -6,7 +6,7 @@ I'm trying to find my true self now.
 
 Looking forward to a remote job.
 
-## codes
+## things I code with
 
 <p>
   <img alt="macOS" src="https://img.shields.io/badge/-macOS-333?style=flat-square&logo=apple&logoColor=white" />
@@ -34,9 +34,9 @@ Looking forward to a remote job.
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=LoTwT.LoTwT)
 
-| <a href="https://github.com/LoTwT/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LoTwT&show_icons=true&include_all_commits=true&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/LoTwT/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoTwT&layout=compact&hide_border=true" /></a> |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-<p align="center">
+<p>
   <img src="https://genshin-card.getloli.com/10/180759973.png" alt="genshin-banner">
 </p>
+
+| <a href="https://github.com/LoTwT/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LoTwT&show_icons=true&include_all_commits=true&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/LoTwT/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoTwT&layout=compact&hide_border=true" /></a> |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
