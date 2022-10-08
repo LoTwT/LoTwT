@@ -1,6 +1,10 @@
-# Hi, I'm Lo 👋
+# Hi
 
-我什么都做不到。
+I'm Lo, or you can also call me Ayingott.
+
+An ordinary front-end developer.
+
+I can't do anything...
 
 ## things I code with
 
