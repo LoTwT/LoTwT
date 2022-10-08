@@ -1,10 +1,6 @@
-# Hi 👋
+# Hi, I'm Lo 👋
 
-I'm Lo, an ordinary front-end developer.
-
-I'm trying to find my true self now.
-
-Looking forward to a remote job.
+我什么都做不到。
 
 ## things I code with
 
