@@ -42,7 +42,7 @@ I can't do anything...
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=LoTwT.LoTwT)
 
 <p>
-  <img src="https://genshin-card.getloli.com/10/180759973.png" alt="genshin-banner">
+  <img src="https://genshin-card.getloli.com/10,89,94/180759973.png" alt="genshin-card">
 </p>
 
 | <a href="https://github.com/LoTwT/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LoTwT&show_icons=true&include_all_commits=true&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/LoTwT/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoTwT&layout=compact&hide_border=true" /></a> |
