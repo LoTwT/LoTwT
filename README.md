@@ -1,10 +1,6 @@
 # Hi
 
-I'm Lo, or you can also call me Ayingott.
-
-An ordinary front-end developer.
-
-I can't do anything...
+I'm Lo.
 
 ## things I code with
 
@@ -22,7 +18,7 @@ I can't do anything...
 <p>
   <img alt="Vue" src="https://img.shields.io/badge/-Vue-4fc08d?style=flat-square&logo=vue.js&logoColor=ffffff" />
   <img alt="Solid" src="https://img.shields.io/badge/-Solid-3E5E87?style=flat-square&logo=solid&logoColor=9cf" />
-  <img alt="React" src="https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=ffffff" />
+  <!-- <img alt="React" src="https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=ffffff" /> -->
 </p>
 
 <p>
@@ -35,9 +31,19 @@ I can't do anything...
   <!-- <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-ea2845?style=flat-square&logo=nestjs&logoColor=white" /> -->
 </p>
 
+## learning
+
+<p>
+  <img alt="Rust" src="https://img.shields.io/badge/-Rust-dda484?style=flat-square&logo=rust&logoColor=ffffff" />
+</p>
+
+<p>
+  <img alt="%E6%97%A5%E6%9C%AC%E8%AA%9E" src="https://img.shields.io/badge/-%E6%97%A5%E6%9C%AC%E8%AA%9E-007ACC?style=flat-square" />
+</p>
+
 ## stats
 
-[![42](https://count.getloli.com/get/@LoTwT?theme=gelbooru)](#)
+[![Vistor Count](https://count.getloli.com/get/@LoTwT?theme=gelbooru)](#)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=LoTwT.LoTwT)
 
