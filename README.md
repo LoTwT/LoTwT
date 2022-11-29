@@ -35,6 +35,7 @@ I'm Lo.
 
 <p>
   <img alt="Rust" src="https://img.shields.io/badge/-Rust-dda484?style=flat-square&logo=rust&logoColor=ffffff" />
+  <img alt="Deno" src="https://img.shields.io/badge/-Deno-e0f8ff?style=flat-square&logo=deno&logoColor=000000" />
 </p>
 
 <p>
