@@ -18,7 +18,7 @@ I'm Lo.
 <p>
   <img alt="Vue" src="https://img.shields.io/badge/-Vue-4fc08d?style=flat-square&logo=vue.js&logoColor=ffffff" />
   <img alt="React" src="https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=ffffff" />
-  <img alt="Solid" src="https://img.shields.io/badge/-Solid-3E5E87?style=flat-square&logo=solid&logoColor=9cf" />
+<!--   <img alt="Solid" src="https://img.shields.io/badge/-Solid-3E5E87?style=flat-square&logo=solid&logoColor=9cf" /> -->
 </p>
 
 <p>
@@ -38,8 +38,8 @@ I'm Lo.
 ## learning
 
 <p>
-  <img alt="Rust" src="https://img.shields.io/badge/-Rust-dda484?style=flat-square&logo=rust&logoColor=ffffff" />
-  <img alt="Deno" src="https://img.shields.io/badge/-Deno-e0f8ff?style=flat-square&logo=deno&logoColor=000000" />
+<!--   <img alt="Rust" src="https://img.shields.io/badge/-Rust-dda484?style=flat-square&logo=rust&logoColor=ffffff" /> -->
+<!--   <img alt="Deno" src="https://img.shields.io/badge/-Deno-e0f8ff?style=flat-square&logo=deno&logoColor=000000" /> -->
 </p>
 
 <p>
