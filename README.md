@@ -38,7 +38,7 @@ I'm Lo.
 ## learning
 
 <p>
-<!--   <img alt="Rust" src="https://img.shields.io/badge/-Rust-dda484?style=flat-square&logo=rust&logoColor=ffffff" /> -->
+  <img alt="Rust" src="https://img.shields.io/badge/-Rust-dda484?style=flat-square&logo=rust&logoColor=ffffff" />
 <!--   <img alt="Deno" src="https://img.shields.io/badge/-Deno-e0f8ff?style=flat-square&logo=deno&logoColor=000000" /> -->
 </p>
 
@@ -53,7 +53,7 @@ I'm Lo.
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=LoTwT.LoTwT)
 
 <p>
-  <img src="https://genshin-card.getloli.com/10,89,94/180759973.png" alt="genshin-card">
+<!--   <img src="https://genshin-card.getloli.com/10,89,94/180759973.png" alt="genshin-card"> -->
 </p>
 
 | <a href="https://github.com/LoTwT/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LoTwT&show_icons=true&include_all_commits=true&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/LoTwT/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoTwT&layout=compact&hide_border=true" /></a> |
