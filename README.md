@@ -23,6 +23,7 @@ I'm Lo.
 
 <p>
   <img alt="Nuxt3" src="https://img.shields.io/badge/-Nuxt3-4fc08d?style=flat-square&logo=nuxt.js&logoColor=ffffff" />
+  <img alt="Next" src="https://img.shields.io/badge/-Next-000?style=flat-square&logo=next.js&logoColor=ffffff" />
 </p>
 
 <p>
