@@ -27,6 +27,10 @@ I'm Lo.
 </p>
 
 <p>
+  <img alt="Vitest" src="https://img.shields.io/badge/-Vitest-4fc08d?style=flat-square&logo=vitest&logoColor=ffffff" />
+</p>
+
+<p>
   <img alt="Vite" src="https://img.shields.io/badge/-Vite-%23646CFF?style=flat-square&logo=vite&logoColor=ffffff" />
   <!-- <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> -->
 </p>
