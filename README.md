@@ -67,5 +67,28 @@ I'm Lo.
 <!--   <img src="https://genshin-card.getloli.com/10,89,94/180759973.png" alt="genshin-card"> -->
 </p>
 
-| <a href="https://github.com/LoTwT/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LoTwT&show_icons=true&include_all_commits=true&hide_border=true" alt="Lo's github stats" /></a> | <a href="https://github.com/LoTwT/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoTwT&layout=compact&hide_border=true" /></a> |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=lotwt&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=lotwt&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=lotwt&show_icons=true" align=left />
+</picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LoTwT&layout=compact&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LoTwT&layout=compact"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoTwT&layout=compact" align=left />
+</picture>
+
+
