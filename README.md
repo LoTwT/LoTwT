@@ -14,17 +14,19 @@ I'm Lo.
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Rust" src="https://img.shields.io/badge/-Rust-dda484?style=flat-square&logo=rust&logoColor=ffffff" />
+  <img alt="WebAssembly" src="https://img.shields.io/badge/-WebAssembly-dda484?style=flat-square&logo=webassembly&logoColor=654FF0" />
 </p>
 
 <p>
   <img alt="Vue" src="https://img.shields.io/badge/-Vue-4fc08d?style=flat-square&logo=vue.js&logoColor=ffffff" />
   <img alt="Nuxt3" src="https://img.shields.io/badge/-Nuxt3-4fc08d?style=flat-square&logo=nuxt.js&logoColor=ffffff" />
   <img alt="Unocss" src="https://img.shields.io/badge/-Unocss-333?style=flat-square&logo=unocss&logoColor=white" />
-  
+</p>
+
+<p>
   <img alt="Vite" src="https://img.shields.io/badge/-Vite-%23646CFF?style=flat-square&logo=vite&logoColor=ffffff" />
   <img alt="Rollup" src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white" />
   <img alt="Vitest" src="https://img.shields.io/badge/-Vitest-4fc08d?style=flat-square&logo=vitest&logoColor=ffffff" />
-
   <img alt="Node" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 </p>
