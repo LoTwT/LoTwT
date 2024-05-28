@@ -39,7 +39,7 @@ I'm Lo.
 
 ## stats
 
-[![Vistor Count](https://count.getloli.com/get/@LoTwT?theme=gelbooru)](#)
+[![Vistor Count](https://count.getloli.com/get/@LoTwT?theme=gelbooru)]
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=LoTwT.LoTwT)
 
