@@ -21,6 +21,7 @@ I'm Lo.
   <img alt="Vue" src="https://img.shields.io/badge/-Vue-4fc08d?style=flat-square&logo=vue.js&logoColor=ffffff" />
   <img alt="Nuxt3" src="https://img.shields.io/badge/-Nuxt3-4fc08d?style=flat-square&logo=nuxt.js&logoColor=ffffff" />
   <img alt="Unocss" src="https://img.shields.io/badge/-Unocss-333?style=flat-square&logo=unocss&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
 </p>
 
 <p>
