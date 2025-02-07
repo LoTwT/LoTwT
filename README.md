@@ -14,6 +14,7 @@ I'm Lo.
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Rust" src="https://img.shields.io/badge/-Rust-dda484?style=flat-square&logo=rust&logoColor=ffffff" />
+  <img alt="WebAssembly" src="https://img.shields.io/badge/-WAT-654FF0?style=flat-square&logo=webassembly&logoColor=fff" />
   <img alt="WebAssembly" src="https://img.shields.io/badge/-WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=fff" />
 </p>
 
